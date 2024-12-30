@@ -245,6 +245,17 @@ const bigProjects = {
           url: "https://elivated-ed-nextjs.vercel.app/"
         }
       ]
+    },
+    {
+      image: require("./assets/images/project3.png"),
+      projectName: "EssentialVitamis",
+      projectDesc: "A responsive nextjs website",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://essentialvitamin.netlify.app/"
+        }
+      ]
     }
   ],
   display: true // Set false to hide this section, defaults to true
