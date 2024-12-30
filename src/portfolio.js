@@ -247,7 +247,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/project3.png"),
+      image: require("./assets/images/project2.png"),
       projectName: "EssentialVitamis",
       projectDesc: "A responsive nextjs website",
       footerLink: [
